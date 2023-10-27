@@ -1,0 +1,7 @@
+base64
+flask
+random
+codecs
+pycryptodome
+zlib
+pyobfuscate
